@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A Backend Developer and Software Engineer</h3>
+<h3 align="left">A Backend Developer and Software Engineer</h3>
+
+[![inoxybel's GitHub stats](https://github-readme-stats.vercel.app/api?username=inoxybel&count_private=true&show_icons=true&include_all_commits=true&title_color=ff0000&text_color=f4f0f0&icon_color=eb0000&border_color=c70000&bg_color=000000&border_radius=10&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently studying Software Analysis and Development at [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
@@ -13,17 +15,18 @@
 
 - 📫 How to reach me **inoxybel@live.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/th-agomatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th-agomatos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thiago4400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thiago4400" height="30" width="40" /></a>
 <a href="https://discord.gg/Inoxybel#9939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Inoxybel#9939" height="30" width="40" /></a>
-</p>
+</p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoxybel&show_icons=true&locale=en&layout=compact" alt="inoxybel" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoxybel&langs_count=4&show_icons=true&locale=en" alt="inoxybel" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoxybel&" alt="inoxybel" /></p>
-
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoxybel&" alt="inoxybel" /></p>
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
