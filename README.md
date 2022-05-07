@@ -20,9 +20,9 @@
 <a href="https://discord.gg/Inoxybel#9939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Inoxybel#9939" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoxybel&show_icons=true&locale=en&layout=compact" alt="inoxybel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoxybel&show_icons=true&locale=en&layout=compact" alt="inoxybel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoxybel&" alt="inoxybel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoxybel&" alt="inoxybel" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
