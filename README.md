@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [/* in construction*/]
 
-- 💬 Ask me about **Python, Java and Technology**
+- 💬 Ask me about **.NET, C#, React, Python, Java, MongoDB, SQL, Docker, GIT ... Technology**
 
 - 📫 How to reach me **inoxybel@live.com**
 
