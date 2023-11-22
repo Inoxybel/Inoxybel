@@ -3,19 +3,25 @@
 
 [![inoxybel's GitHub stats](https://github-readme-stats.vercel.app/api?username=inoxybel&count_private=true&show_icons=true&include_all_commits=true&title_color=ff0000&text_color=f4f0f0&icon_color=eb0000&border_color=c70000&bg_color=000000&border_radius=10&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently studying Software Analysis and Development at [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+- 🔭 I’m graduated Software Analysis and Development at [FIAP](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
 
 - 🌱 I’m currently learning **Software Engineer**
 
-- 👯 I’m looking to collaborate on **Open Projects for Portfolio**
+- 👨‍💻 Some of my academic projects are available at [Repositories](https://github.com/Inoxybel?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [/* in construction*/]
-
-- 💬 Ask me about **.NET, C#, React, Python, Java, MongoDB, SQL, Docker, GIT ... Technology**
+- 💬 Ask me about **.NET, C#, React, Python, Java, MongoDB, SQL, REDIS, Docker, GIT, KAFKA, ... Technology**
 
 - 📫 How to reach me **inoxybel@live.com**
 
 <br>
+
+<h2 align="left">About Me</h2>
+<p>(EN) Highly focused and resilient technology professional, recognized for an exceptional commitment to academic and professional excellence. Over the past two years, I have distinguished myself by consistently achieving the highest graduation average and having my academic projects selected among the best, reflecting strong dedication and a proactive approach to learning and professional development. With a proven ability to overcome challenges and a willingness to take on additional responsibilities, I quickly evolved from an intern to a full professional, balancing multiple job responsibilities with outstanding academic performance. My unwavering commitment to career goals and constant pursuit of growth position me to make significant contributions in dynamic and future-oriented environments.</p>
+
+<p>(PT-BR) Profissional de tecnologia altamente focado e resiliente, reconhecido por um excepcional comprometimento com a excelência tanto acadêmica quanto profissional. Nos últimos dois anos, destaquei-me por obter a maior média de graduação consistentemente e ter meus projetos acadêmicos selecionados entre os melhores, refletindo uma forte dedicação e uma abordagem proativa à aprendizagem e ao desenvolvimento profissional. Com uma habilidade comprovada para superar desafios e uma disposição para assumir responsabilidades adicionais, evoluí rapidamente de estagiário para profissional pleno, equilibrando múltiplas responsabilidades de trabalho com um desempenho acadêmico de destaque. Meu compromisso inabalável com os objetivos de carreira e a busca constante por crescimento me posicionam para fazer contribuições significativas em ambientes dinâmicos e orientados para o futuro.</p>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/th-agomatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th-agomatos" height="30" width="40" /></a>
@@ -26,23 +32,22 @@
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inoxybel&langs_count=4&show_icons=true&locale=en" alt="inoxybel" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inoxybel&" alt="inoxybel" /></p>
+
 <br>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
- </p>
+<p align="center">
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+ <a href="https://xunit.net/" target="_blank" rel="noreferrer"> <img src="https://dotnetfoundation.org/images/default-source/projects/xunit.jpg" alt="XUnit" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+ <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/> </a>
+ <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/> </a>
+ <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/372946/scrum.svg" alt="Scrum" width="40" height="40"/> </a>
+ <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+</p>
