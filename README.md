@@ -22,6 +22,18 @@
 
 <br>
 
+### 🌟 Featured Projects
+
+#### IAcademy: A Revolutionary AI-Driven Online Training Platform
+
+**Project Overview:**
+IAcademy is my most significant and recent academic project, embodying a pioneering approach to online training. This platform leverages Generative AI to offer users personalized learning experiences, featuring new explanations, custom examples, intelligently crafted exercises, and dynamic corrections with real-time feedback. Each user's learning journey is uniquely tailored: User A's specific challenges are mapped and addressed in the most effective way for their learning process, while User B's focus is on their unique set of difficulties. With the extensive data collected, the platform can swiftly identify the learning hurdles of User X's profile, optimizing their learning process for enhanced productivity.
+
+**Current Status:**
+The MVP of this project is currently closed-source.
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/th-agomatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th-agomatos" height="30" width="40" /></a>
