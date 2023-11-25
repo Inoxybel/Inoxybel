@@ -22,17 +22,49 @@
 
 <br>
 
-### 🌟 Featured Projects
+<h2 align="left"> 🌟 Featured Projects</h2>
 
 #### IAcademy: A Revolutionary AI-Driven Online Training Platform
 
 **Project Overview:**
-IAcademy is my most significant and recent academic project, embodying a pioneering approach to online training. This platform leverages Generative AI to offer users personalized learning experiences, featuring new explanations, custom examples, intelligently crafted exercises, and dynamic corrections with real-time feedback. Each user's learning journey is uniquely tailored: User A's specific challenges are mapped and addressed in the most effective way for their learning process, while User B's focus is on their unique set of difficulties. With the extensive data collected, the platform can swiftly identify the learning hurdles of User X's profile, optimizing their learning process for enhanced productivity.
+IAcademy is my most significant and recent academic project, elected as one of the top 12 projects in the FIAP institution, embodying a pioneering approach to online training. This platform leverages Generative AI to offer users personalized learning experiences, featuring new explanations, custom examples, intelligently crafted exercises, and dynamic corrections with real-time feedback. Each user's learning journey is uniquely tailored: User A's specific challenges are mapped and addressed in the most effective way for their learning process, while User B's focus is on their unique set of difficulties. With the extensive data collected, the platform can swiftly identify the learning hurdles of User X's profile, optimizing their learning process for enhanced productivity.
 
 **Current Status:**
 The MVP of this project is currently closed-source. But you can see the MVP from Youtube [clicking here](https://youtu.be/v2cBOtP9_tk)
 
 <br>
+
+## Another Academic Projects
+
+Below are some of the projects I worked on during my graduation in Analysis and Systems Development at FIAP. The scopes and technologies used varied according to the requirements of the professors for each assignment.
+
+1. **TaskManager**
+   - [Repository](https://github.com/Inoxybel/CP2-DevOps-3Sem)
+   - Description: A mini task management platform that integrates a React Native front-end with a .NET API, using MongoDB, Docker, and Docker-Compose. Hosted on Azure Cloud.
+
+2. **Student Manager**
+   - [Repository](https://github.com/Inoxybel/CP3-DevOps-3Sem)
+   - Description: A mini platform for student registration and management, using Docker, Docker-Compose, ASP.NET MVC, SQL, and authentication.
+
+3. **DreamControl**
+   - [Repository](https://github.com/Inoxybel/DreamControl)
+   - Description: A project for sleep time control, aiming to record user sleep time, create metrics and goals, and generate reports on user rest. RESTful API developed in Java, using Spring Boot, Spring Security, Spring HATEOAS, and Spring Data.
+
+4. **Friday IA Assistant**
+   - [Repository](https://github.com/Inoxybel/Assistente_CP2_IA)
+   - Description: An Alexa-like assistant integrated with GPT-4 and using speech recognition and pyttsx3 technologies. Monolith (as per the professor's request) built in Python.
+
+5. **DonateDine**
+   - [Repository](https://github.com/Inoxybel/DonateDine)
+   - Description: A project aimed at managing consumer users, producers, and food items to reduce food waste. The application connects stores and producers with consumers and other producers to reuse food items for consumption or donations.
+
+6. **Employee Management System**
+   - [Repository](https://github.com/Inoxybel/CP4Enterprise)
+   - Description: A basic .NET CRUD for managing PJ and CLT employees. Used .NET 6 and libraries like MOQ, XUnit, and FluentAssertions.
+
+7. **User Manager**
+   - [Repository](https://github.com/Inoxybel/Devops-Cp2-2S)
+   - Description: API for user management, featuring a complete CRUD. Built with .NET 6, MongoDB, and Docker. Hosted on Azure Cloud with infrastructure created via CLI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
