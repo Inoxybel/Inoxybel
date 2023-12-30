@@ -9,9 +9,9 @@
 
 - 👨‍💻 Some of my academic projects are available at [Repositories](https://github.com/Inoxybel?tab=repositories)
 
-- 💬 Ask me about **.NET, C#, React, Python, Java, MongoDB, SQL, REDIS, Docker, GIT, KAFKA, ... Technology**
+- 💬 Ask me about **.NET, C#, React, Python, DDD, Software Architecture, Patterns, MongoDB, SQL, REDIS, Docker, GIT, KAFKA, ... Technology**
 
-- 📫 How to reach me **inoxybel@live.com**
+- 📫 How to reach me **contact@iamthiago.tech**
 
 <br>
 
